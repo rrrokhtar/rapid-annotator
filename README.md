@@ -1,3 +1,4 @@
+# Red Hen Lab's Rapid Annotator
 # Contents
 -   <a href="#introduction" class="post-section-overview">Introduction</a>
 -   <a href="#built-with" class="post-section-overview">Built with</a>
