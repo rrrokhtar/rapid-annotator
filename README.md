@@ -506,13 +506,13 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
 ### WEEK 02
 
-1.  **Optimized the viewing of an experiment loading time in terms of
-    large experiments files** I liked doing that xD
+1.  Optimized the viewing of an experiment loading time in terms of
+    large experiments files I liked doing that
 2.  Exporting results after making the multi-choice functionality at
-    long format.
+    long format
 3.  Edited exporting results at the concordance exp. type, added new
     column of video snippet annotated changed, start and end times,
-    offsets!
+    offsets
 
 ------------------------------------------------------------------------
 
