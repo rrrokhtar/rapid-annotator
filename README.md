@@ -13,9 +13,9 @@
 
 ------------------------------------------------------------------------
 # Introduction
-I have been continuing working on Red Hen Lab's Rapid Annotator after work done by Gulshan Kumar and Vaibhav Gubta at GSoC's 20, 19 and 18.  
 Red Hen’s Rapid Annotator provides a platform to users to annotate large chunks of data in a short span of time and with least possible efforts. It provides the features of annotating images/videos/audios/text during collaborative situation also. With Red Hen Lab’s we will try to enable users to visualize the progress of each annotator separately and annotators can notify experimenter when the annotation is finished to make the annotation work more efficient.  
 In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to annotate large chunks of data in a very short period of time with least effort possible and try to get started with minimal training. 
+I have been continuing working on Red Hen Lab's Rapid Annotator after work done by Gulshan Kumar and Vaibhav Gubta at GSoC's 20, 19 and 18.  
 
 ------------------------------------------------------------------------
 # Terminologies
