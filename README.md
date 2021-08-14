@@ -47,8 +47,6 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 1.  [Going to 'Settings' of a new experiment leads to an Internal Server
     Error](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/45)
     <details>
-    <summary>I could use some help...</summary>
-    
     ### Description
 
     When I go to a new experiment and click on its settings immediately
@@ -66,8 +64,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     ### Logs
 
     [![image](https://user-images.githubusercontent.com/39674365/119835842-7db7c480-bf01-11eb-9819-990307698f88.png)](https://user-images.githubusercontent.com/39674365/119835842-7db7c480-bf01-11eb-9819-990307698f88.png)
-
- </details>  
+ </details>
  
 2.  [Unexpected behavior when adding or removing annotators at an
     experiment](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/47)
