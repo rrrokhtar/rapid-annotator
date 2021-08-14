@@ -578,5 +578,6 @@ been followed
 - Always I think starting in new something is the most hard part of the story, so getting into the project for the first time was a challenging
 - VIA integration and modifying to to be compatible with RA it was the hardest part (10k lines of code had to get what is going on and then start writing some code to make it works for RA was)
 - The time controllers and range slider for the annotation adds-on also was a challenging part to make the video synchronized with the controllers buttons and inputs but it was interesting
+        
 ------------------------------------------------------------------------
 
