@@ -93,7 +93,6 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
    
 3.  [Export results to sheet as CSV doesn't
     work](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/50)
-    
     <details>   
   
     ### Description
@@ -326,7 +325,6 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
 10. [Continue a specific experiment using exported wide results format
     feature](https://github.com/RedHenLab/RapidAnnotator-2.0/pull/57)
-    
     <details>  
 
     ### Description
@@ -410,7 +408,6 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
 12. [Annotations adds-on (coordinates
     feature)](https://github.com/RedHenLab/RapidAnnotator-2.0/pull/60)
-    
     <details>  
     
     ### Description
