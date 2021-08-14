@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Red Hen Lab's Rapid Annotator](README.md)
 

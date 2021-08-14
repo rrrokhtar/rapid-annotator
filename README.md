@@ -1,4 +1,8 @@
-# Untitled
+---
+description: Google Summer of Code 2021
+---
+
+# Red Hen Lab's Rapid Annotator
 
 ## Red Hen Lab's Rapid Annotator <a id="red-hen-labs-rapid-annotator"></a>
 
