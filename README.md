@@ -7,7 +7,7 @@
 -   <a href="#important-links" class="post-section-overview">Important links</a>
 -   <a href="#terminologies" class="post-section-overview">Terminologies</a>
 -   <a href="#issues-list" class="post-section-overview">Issues list</a>
--   <a href="#pull-requests-list" class="post-section-overview">Pull Requests list</a>
+-   <a href="#pull-requests-list" class="post-section-overview">Pull requests list</a>
 -   <a href="#accomplished-tasks-list" class="post-section-overview">Accomplished tasks list</a>
     <!-- -   <a href="#week-01" class="post-section-overview">WEEK 01</a>
         <sup>07 Jun. - 14 Jun.</sup>
@@ -447,7 +447,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     
     <details>  
     
-    Description
+    ### Description
 
     The following pull request adding is an adds-on to the current
     annotation process system to allow the experiment get more
@@ -455,12 +455,12 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     information and features extraction and get more intuition about
     which part of the data is meant for this annotation
 
-    **Usage**
+    ### Usage
 
     This feature meant to be used by the experimenter in the step of
     modeling and preprocessing.
 
-    **Screenshots**
+    ### Screenshots
 
     1.  **Image experiments**
         [VIA](https://www.robots.ox.ac.uk/~vgg/software/via/) Vgg images
