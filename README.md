@@ -1,4 +1,4 @@
-# Red Hen Lab's Rapid Annotator
+# [Red Hen Lab's Rapid Annotator](https://github.com/RedHenLab/RapidAnnotator-2.0/)
 ![image](https://user-images.githubusercontent.com/39674365/129453330-a1b1dd38-bd29-49e3-a651-61e1f01feb74.png)
 
 # Contents
