@@ -10,6 +10,7 @@
 -   <a href="#pull-requests-list" class="post-section-overview">Pull requests list</a>
 -   <a href="#accomplished-tasks-list" class="post-section-overview">Accomplished tasks list</a>
 -   <a href="#challenges" class="post-section-overview">Challenges</a>
+
 ------------------------------------------------------------------------
 # Introduction
 I have been continuing working on Red Hen Lab's Rapid Annotator after work done by Gulshan Kumar and Vaibhav Gubta at GSoC's 20, 19 and 18.  
@@ -29,6 +30,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 - Javascript
 - HTML
 - CSS
+
 ------------------------------------------------------------------------
 # Important links
 
@@ -44,8 +46,9 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
 1.  [Going to 'Settings' of a new experiment leads to an Internal Server
     Error](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/45)
-    <details>  
-
+    <details>
+    <summary>I could use some help...</summary>
+    
     ### Description
 
     When I go to a new experiment and click on its settings immediately
