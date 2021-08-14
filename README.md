@@ -47,6 +47,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 1.  [Going to 'Settings' of a new experiment leads to an Internal Server
     Error](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/45)
     <details>
+    
     ### Description
 
     When I go to a new experiment and click on its settings immediately
@@ -64,7 +65,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     ### Logs
 
     [![image](https://user-images.githubusercontent.com/39674365/119835842-7db7c480-bf01-11eb-9819-990307698f88.png)](https://user-images.githubusercontent.com/39674365/119835842-7db7c480-bf01-11eb-9819-990307698f88.png)
- </details>
+ 
  
 2.  [Unexpected behavior when adding or removing annotators at an
     experiment](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/47)
@@ -88,7 +89,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![Delayed
     delete](https://user-images.githubusercontent.com/39674365/120403756-240e2a80-c345-11eb-95bc-54865d5a0c40.gif)](https://user-images.githubusercontent.com/39674365/120403756-240e2a80-c345-11eb-95bc-54865d5a0c40.gif)
-   </details>  
+    
    
 3.  [Export results to sheet as CSV doesn't
     work](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/50)
@@ -109,7 +110,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     [![export
     csv](https://user-images.githubusercontent.com/39674365/122206067-3f2e7d80-cea1-11eb-9633-49bfd4005a5e.gif)](https://user-images.githubusercontent.com/39674365/122206067-3f2e7d80-cea1-11eb-9633-49bfd4005a5e.gif)
    
-   </details>  
+   
     
 4.  [View large experiments and results viewing take very long
     time](https://github.com/RedHenLab/RapidAnnotator-2.0/issues/51)
@@ -124,7 +125,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     only on the portion of data which will be displayed to the user as
     per page request. So I will work on that to optimize that time and
     make lazy-loading instead of the current.
-    </details>   
+    
 
 ------------------------------------------------------------------------
 
@@ -142,7 +143,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     ### Screenshot
 
     [![FixedFirstBug](https://user-images.githubusercontent.com/39674365/119851484-b742fc80-bf0e-11eb-8648-7945bfb145a0.gif)](https://user-images.githubusercontent.com/39674365/119851484-b742fc80-bf0e-11eb-8648-7945bfb145a0.gif)
- </details>  
+ 
  
 
 2.  [Fixed adding/removing annotators
@@ -170,7 +171,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![Unexpected behavior on adding
     annotators](https://user-images.githubusercontent.com/39674365/120560574-3babe880-c403-11eb-8604-6f10ac9db236.gif)](https://user-images.githubusercontent.com/39674365/120560574-3babe880-c403-11eb-8604-6f10ac9db236.gif)
- </details>  
+ 
  
 
 3.  [Fixed no progress alert showing when removing all
@@ -181,7 +182,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     which is merged I discovered there is a problem when removing all
     annotators, the alert was causing some problems so I have solved
     it.  
- </details>  
+ 
  
 
 4.  [Fixed export results to csv
@@ -197,7 +198,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![csv\_works](https://user-images.githubusercontent.com/39674365/122212466-2a091d00-cea8-11eb-9d06-a92c66d0b3d3.gif)](https://user-images.githubusercontent.com/39674365/122212466-2a091d00-cea8-11eb-9d06-a92c66d0b3d3.gif)
 
-</details>  
+
  
 
 5.  [Fixed loading time of viewing an experiment
@@ -216,7 +217,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![Fixedloadingtime](https://user-images.githubusercontent.com/39674365/122272264-acadce80-cee0-11eb-9416-301fc61bc169.gif)](https://user-images.githubusercontent.com/39674365/122272264-acadce80-cee0-11eb-9416-301fc61bc169.gif)
 
-</details>  
+
  
 
 6.  [Video Snippet Annotated column added to results exporting at
@@ -243,7 +244,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![VideoAnnotatedSnippet](https://user-images.githubusercontent.com/39674365/123850843-ca385a80-d91a-11eb-91ee-f7e5bf5b02bb.gif)](https://user-images.githubusercontent.com/39674365/123850843-ca385a80-d91a-11eb-91ee-f7e5bf5b02bb.gif)
 
-</details>  
+
  
 
 7.  [View results filtered by annotation level and labels
@@ -260,7 +261,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     [![Filtering by annotation level and
     label](https://user-images.githubusercontent.com/39674365/123954005-2bf2d600-d9a8-11eb-9b41-20f4b0f87b46.gif)](https://user-images.githubusercontent.com/39674365/123954005-2bf2d600-d9a8-11eb-9b41-20f4b0f87b46.gif)
 
-</details>  
+
  
 
 8.  [Reordering the annotation levels in a more easier way and more
@@ -280,7 +281,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![AnnotationLevelsReorder](https://user-images.githubusercontent.com/39674365/125202862-ed95ca80-e275-11eb-8dc8-7bd99898471b.gif)](https://user-images.githubusercontent.com/39674365/125202862-ed95ca80-e275-11eb-8dc8-7bd99898471b.gif)
 
-</details>  
+
  
 
 9.  [Multichoice feature branch merging to master
@@ -320,7 +321,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
         # Then apply your migration to the database, it is like push.
         flask db upgrade  
 
-</details>  
+
  
 
 10. [Continue a specific experiment using exported wide results format
@@ -370,7 +371,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
     [![Text
     Experiment](https://user-images.githubusercontent.com/39674365/125834509-56e2f040-45cc-411c-99de-4fc5bf3be1ec.gif)](https://user-images.githubusercontent.com/39674365/125834509-56e2f040-45cc-411c-99de-4fc5bf3be1ec.gif)
 
-</details>  
+
 
 
 11. [New feature added and modifications on exporting results and
@@ -404,7 +405,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
 
     [![newscapecheck](https://user-images.githubusercontent.com/39674365/128646843-be8ad70f-9d7f-4655-9142-31de57aa0900.gif)](https://user-images.githubusercontent.com/39674365/128646843-be8ad70f-9d7f-4655-9142-31de57aa0900.gif)
 
-</details>  
+
 
 
 12. [Annotations adds-on (coordinates
@@ -445,7 +446,7 @@ In Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to ann
         experiment also  
         [![text-adds-on](https://camo.githubusercontent.com/e4722fab78eedb7951a81e94a052c7f3691727001f66d8a51c6bbd6bd2da283b/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632383730363534313439362f672d626b79686542686f2e6769663f6175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d)](https://camo.githubusercontent.com/e4722fab78eedb7951a81e94a052c7f3691727001f66d8a51c6bbd6bd2da283b/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632383730363534313439362f672d626b79686542686f2e6769663f6175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d)
 
-    </details>  
+
 
 ------------------------------------------------------------------------
 
