@@ -1,4 +1,6 @@
 # Red Hen Lab's Rapid Annotator
+![image](https://user-images.githubusercontent.com/39674365/129453330-a1b1dd38-bd29-49e3-a651-61e1f01feb74.png)
+
 # Contents
 -   <a href="#introduction" class="post-section-overview">Introduction</a>
 -   <a href="#built-with" class="post-section-overview">Built with</a>
