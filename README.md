@@ -10,6 +10,7 @@
 -   <a href="#pull-requests-list" class="post-section-overview">Pull requests list</a>
 -   <a href="#accomplished-tasks-list" class="post-section-overview">Accomplished tasks list</a>
 -   <a href="#challenges" class="post-section-overview">Challenges</a>
+-   <a href="#conclusion" class="post-section-overview">Conclusion</a>
 
 ------------------------------------------------------------------------
 # Introduction
@@ -21,8 +22,9 @@ I have been continuing working on Red Hen Lab's Rapid Annotator after work done 
 # Terminologies
 
 -   **RA** stands for Rapid Annotator
--   **VIA** stands for [Vgg Images
-    Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/)
+-   **VIA** stands for [Vgg Images Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/)
+-   **PR** stands for pull request 
+-   **BG** stands for bug, usualy will mention an issue   
 
 ------------------------------------------------------------------------
 # Built with
@@ -581,3 +583,21 @@ been followed
         
 ------------------------------------------------------------------------
 
+# Conclusion
+## New functionalities added 
+- Viewing results filteration based on annotation level and label @PR07
+- Reordering the annotation levels in a more easier way and more efficent @PR08
+- Multi-choice selection of labels for an annotation level and added text label for each selected label @PR09
+- Continue a specific experiement using its result @PR10
+- Allowing experiment's order to be modified between normal and random @PR11
+- Annotations adds-on and coordiantes on data @PR12
+        
+## Current functionalities fixed and modified
+- Fixed viewing setting when there are no files on the experiment @BG01 solved on @PR01
+- Adding and removing annotators was getting issues on firefox specificaly and had some issues generaly because of it was doing relaod simlituaonsly with sending request @BG02 solved on @PR02 and @PR03
+- Exporting results as CSV file was not working correctly @BG03 solved on @PR04
+- Loading time of exporting and viewing results takes a lot of time so it is optimized @BG04 solved on @PR05
+- Video snippet column was added to the exported results @PR06
+- Solves the problem of viewing results of an experiment while it has no annotators @PR11
+- Disabled uploading once the experiment has already a done uploaded concordance file @PR11
+- Exporting results of concordance at wide format will be only contains the edge link if it is new scape type @PR11
