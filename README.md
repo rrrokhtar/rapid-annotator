@@ -584,20 +584,21 @@ been followed
 ------------------------------------------------------------------------
 
 # Conclusion
-## New functionalities added 
-- Viewing results filteration based on annotation level and label @PR07
-- Reordering the annotation levels in a more easier way and more efficent @PR08
+## New functionalities added
+- Viewing results filtration based on annotation level and label @PR07
+- Reordering the annotation levels in a more easier way and more efficient @PR08
 - Multi-choice selection of labels for an annotation level and added text label for each selected label @PR09
-- Continue a specific experiement using its result @PR10
+- Continue a specific experiment using its result @PR10
 - Allowing experiment's order to be modified between normal and random @PR11
-- Annotations adds-on and coordiantes on data @PR12
+- Annotations adds-on and coordinates on data @PR12
         
 ## Current functionalities fixed and modified
 - Fixed viewing setting when there are no files on the experiment @BG01 solved on @PR01
-- Adding and removing annotators was getting issues on firefox specificaly and had some issues generaly because of it was doing relaod simlituaonsly with sending request @BG02 solved on @PR02 and @PR03
+- Adding and removing annotators was getting issues on firefox specifically and had some issues generally because of it was doing reload simultaneously with sending request @BG02 solved on @PR02 and @PR03
 - Exporting results as CSV file was not working correctly @BG03 solved on @PR04
 - Loading time of exporting and viewing results takes a lot of time so it is optimized @BG04 solved on @PR05
 - Video snippet column was added to the exported results @PR06
 - Solves the problem of viewing results of an experiment while it has no annotators @PR11
 - Disabled uploading once the experiment has already a done uploaded concordance file @PR11
 - Exporting results of concordance at wide format will be only contains the edge link if it is new scape type @PR11
+
