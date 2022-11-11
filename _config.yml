@@ -1,4 +1,4 @@
-theme: minima # jekyll-theme-dinky
+theme: jekyll-theme-dinky
 markdown: kramdown
 kramdown:
   parse_block_html: true
