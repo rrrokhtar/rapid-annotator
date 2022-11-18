@@ -5,16 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
  With Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to annotate large chunks of data in a very short period of time with least effort possible and try to get started with minimal training.
 
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-# Build settings
-theme: minima
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+theme: jekyll-theme-dinky
+markdown: kramdown
+kramdown:
+  parse_block_html: true
