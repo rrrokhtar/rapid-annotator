@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # [Red Hen Lab's Rapid Annotator](https://github.com/RedHenLab/RapidAnnotator-2.0/)
 ![129453330-a1b1dd38-bd29-49e3-a651-61e1f01feb74](https://user-images.githubusercontent.com/39674365/202776946-a7525d30-d612-4436-a1ab-5cf53231c055.png)
 
