@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 
 Red Hen Lab Rapid Annotator summary for the final evaluation of google summer of code includes the work done through 2021 and 2022 by Mohamed Mokhtar
 # [Rapid Annotator](https://github.com/RedHenLab/RapidAnnotator-2.0/) @ 2021
