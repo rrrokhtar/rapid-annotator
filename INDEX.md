@@ -7,7 +7,11 @@ permalink: /index.html
 
 <div align="center">
   
-[![21](https://user-images.githubusercontent.com/39674365/202747133-71935bcf-4739-4b55-9d45-de0bcccd4c39.png)](./21)  [![600px-Elongated_circle_22 svg](https://user-images.githubusercontent.com/39674365/202747128-2cd4f4de-7e8f-4d0d-87ba-a017175c0333.png)](./22)
+
+  [![21](https://user-images.githubusercontent.com/39674365/202747133-71935bcf-4739-4b55-9d45-de0bcccd4c39.png)](./21) 
+  
+
+  [![22](https://user-images.githubusercontent.com/39674365/202747128-2cd4f4de-7e8f-4d0d-87ba-a017175c0333.png)](./22)
 
 </div>
 
