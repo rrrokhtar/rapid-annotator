@@ -3,9 +3,7 @@ author:
   name: rrrokhtar
   email: rrrokhtar@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ With Red Hen Lab’s Rapid Annotator we try to enable researchers worldwide to annotate large chunks of data in a very short period of time with least effort possible and try to get started with minimal training.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
